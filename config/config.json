@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "Deepak",
+    "database": "advertisement",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "Deepak",
+    "database": "advertisement",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "Deepak",
+    "database": "advertisement",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
